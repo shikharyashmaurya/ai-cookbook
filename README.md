@@ -5,7 +5,7 @@ Python-
 Python list data structure build from scratch
 https://github.com/shikharyashmaurya/python-list-from-scratch.git
 
-Pytorch-
+## Pytorch-
 
 tensors
 https://colab.research.google.com/drive/17luXC4P7_r30euiydkpoVFHQz4ElcNuk?usp=sharing
