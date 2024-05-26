@@ -22,5 +22,11 @@ https://colab.research.google.com/drive/1mswlrgIH9x1Cz3SHcwMfy_XbjZKzQLQq?usp=sh
 
 # Projects-
 
+Prompt-generation-from-image
+https://huggingface.co/spaces/shikharyashmaurya/Prompt-generation-from-image
+
+brain-skin-cancer-detection
+https://huggingface.co/spaces/shikharyashmaurya/brain-skin-cancer-detection/blob/main/app.py
+
 collage-placement-predictor
 https://huggingface.co/spaces/shikharyashmaurya/collage-placement-predictor
