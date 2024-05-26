@@ -1,4 +1,4 @@
-# genai-cookbook
+# ai-cookbook
 
 
 Pytorch-
