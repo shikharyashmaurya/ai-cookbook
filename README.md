@@ -5,6 +5,7 @@
 Python list data structure build from scratch
 https://github.com/shikharyashmaurya/python-list-from-scratch.git
 
+
 ## Pytorch-
 
 tensors
@@ -18,3 +19,8 @@ https://colab.research.google.com/drive/1hHElvdG_7-ngU6f3Oe42vDpsu6Zg3ASx?usp=sh
 
 Recurrent neural network
 https://colab.research.google.com/drive/1mswlrgIH9x1Cz3SHcwMfy_XbjZKzQLQq?usp=sharing
+
+# Projects-
+
+collage-placement-predictor
+https://huggingface.co/spaces/shikharyashmaurya/collage-placement-predictor
