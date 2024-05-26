@@ -1,4 +1,4 @@
-# ai-cookbook
+# ai-cookbook made by me
 
 ## Python-
 
