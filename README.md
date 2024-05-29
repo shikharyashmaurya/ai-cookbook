@@ -61,6 +61,9 @@ https://huggingface.co/spaces/shikharyashmaurya/unit-converter
 dog vs cat classification
 https://huggingface.co/spaces/shikharyashmaurya/dog-vs-cat-classifier
 
+dog vs bat breed classification
+https://huggingface.co/spaces/shikharyashmaurya/cat_dog-breed
+
 collage-placement-predictor
 https://huggingface.co/spaces/shikharyashmaurya/collage-placement-predictor
 
