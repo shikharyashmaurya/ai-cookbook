@@ -49,11 +49,14 @@ https://huggingface.co/spaces/shikharyashmaurya/emotion-detector
 online mental health diagnosis
 https://huggingface.co/spaces/shikharyashmaurya/Mental-health
 
-brain-skin-cancer-detection
-https://huggingface.co/spaces/shikharyashmaurya/brain-skin-cancer-detection/blob/main/app.py
-
 whatsapp-chat-analysis
 https://huggingface.co/spaces/shikharyashmaurya/whatsapp-chat-analysis
 
+simple unit converter app
+https://huggingface.co/spaces/shikharyashmaurya/unit-converter
+
 collage-placement-predictor
 https://huggingface.co/spaces/shikharyashmaurya/collage-placement-predictor
+
+brain-skin-cancer-detection
+https://huggingface.co/spaces/shikharyashmaurya/brain-skin-cancer-detection/blob/main/app.py
