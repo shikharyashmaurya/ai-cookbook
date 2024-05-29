@@ -43,6 +43,9 @@ https://huggingface.co/spaces/shikharyashmaurya/Prompt-generation-from-image
 emotion detection from text
 https://huggingface.co/spaces/shikharyashmaurya/emotion-detector
 
+online mental health diagnosis
+https://huggingface.co/spaces/shikharyashmaurya/Mental-health
+
 brain-skin-cancer-detection
 https://huggingface.co/spaces/shikharyashmaurya/brain-skin-cancer-detection/blob/main/app.py
 
