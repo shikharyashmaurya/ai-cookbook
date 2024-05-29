@@ -8,6 +8,9 @@ https://github.com/shikharyashmaurya/python-list-from-scratch.git
 string data structure features
 https://www.kaggle.com/code/mauryashikhar87/string-manipulation
 
+numpy features
+https://www.kaggle.com/code/mauryashikhar87/numpy
+
 
 ## Pytorch-
 
