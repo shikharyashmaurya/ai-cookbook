@@ -28,6 +28,9 @@ https://colab.research.google.com/drive/1mswlrgIH9x1Cz3SHcwMfy_XbjZKzQLQq?usp=sh
 
 # Projects-
 
+chatbot
+https://huggingface.co/spaces/shikharyashmaurya/chatbot
+
 Prompt-generation-from-image
 https://huggingface.co/spaces/shikharyashmaurya/Prompt-generation-from-image
 
