@@ -31,6 +31,9 @@ https://colab.research.google.com/drive/1mswlrgIH9x1Cz3SHcwMfy_XbjZKzQLQq?usp=sh
 chatbot
 https://huggingface.co/spaces/shikharyashmaurya/chatbot
 
+youtube-video-summariser
+https://huggingface.co/spaces/shikharyashmaurya/youtube-video-summariser
+
 Prompt-generation-from-image
 https://huggingface.co/spaces/shikharyashmaurya/Prompt-generation-from-image
 
