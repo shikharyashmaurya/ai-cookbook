@@ -58,6 +58,9 @@ https://huggingface.co/spaces/shikharyashmaurya/entropy
 simple unit converter app
 https://huggingface.co/spaces/shikharyashmaurya/unit-converter
 
+dog vs cat classification
+https://huggingface.co/spaces/shikharyashmaurya/dog-vs-cat-classifier
+
 collage-placement-predictor
 https://huggingface.co/spaces/shikharyashmaurya/collage-placement-predictor
 
