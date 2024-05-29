@@ -52,6 +52,9 @@ https://huggingface.co/spaces/shikharyashmaurya/Mental-health
 whatsapp-chat-analysis
 https://huggingface.co/spaces/shikharyashmaurya/whatsapp-chat-analysis
 
+physics simulation of entropy
+https://huggingface.co/spaces/shikharyashmaurya/entropy
+
 simple unit converter app
 https://huggingface.co/spaces/shikharyashmaurya/unit-converter
 
