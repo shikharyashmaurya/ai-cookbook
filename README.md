@@ -34,7 +34,10 @@ https://huggingface.co/spaces/shikharyashmaurya/chatbot
 image-summary
 https://huggingface.co/spaces/shikharyashmaurya/image-summary
 
-youtube-video-summariser
+audio summary
+https://huggingface.co/spaces/shikharyashmaurya/Audio-Application
+
+youtube video summary
 https://huggingface.co/spaces/shikharyashmaurya/youtube-video-summariser
 
 Prompt-generation-from-image
@@ -48,6 +51,9 @@ https://huggingface.co/spaces/shikharyashmaurya/Mental-health
 
 brain-skin-cancer-detection
 https://huggingface.co/spaces/shikharyashmaurya/brain-skin-cancer-detection/blob/main/app.py
+
+whatsapp-chat-analysis
+https://huggingface.co/spaces/shikharyashmaurya/whatsapp-chat-analysis
 
 collage-placement-predictor
 https://huggingface.co/spaces/shikharyashmaurya/collage-placement-predictor
