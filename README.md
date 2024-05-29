@@ -3,7 +3,7 @@
 ## Python-
 
 list data structure build from scratch
-https://github.com/shikharyashmaurya/python-list-from-scratch.git
+https://www.kaggle.com/code/mauryashikhar87/list-from-scratch
 
 string data structure features
 https://www.kaggle.com/code/mauryashikhar87/string-manipulation
