@@ -2,8 +2,11 @@
 
 ## Python-
 
-Python list data structure build from scratch
+list data structure build from scratch
 https://github.com/shikharyashmaurya/python-list-from-scratch.git
+
+string data structure features
+https://www.kaggle.com/code/mauryashikhar87/string-manipulation
 
 
 ## Pytorch-
