@@ -69,3 +69,9 @@ https://huggingface.co/spaces/shikharyashmaurya/collage-placement-predictor
 
 brain-skin-cancer-detection
 https://huggingface.co/spaces/shikharyashmaurya/brain-skin-cancer-detection/blob/main/app.py
+
+Fact-checker
+https://huggingface.co/spaces/shikharyashmaurya/fact-checker
+
+Verified-Interseting-fact-geneartor
+https://huggingface.co/spaces/shikharyashmaurya/Verified-Interseting-fact-geneartor
