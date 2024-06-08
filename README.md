@@ -29,7 +29,7 @@ https://colab.research.google.com/drive/1hHElvdG_7-ngU6f3Oe42vDpsu6Zg3ASx?usp=sh
 Recurrent neural network
 https://colab.research.google.com/drive/1mswlrgIH9x1Cz3SHcwMfy_XbjZKzQLQq?usp=sharing
 
-# Projects-
+# Deployed Projects-
 
 chatbot
 https://huggingface.co/spaces/shikharyashmaurya/chatbot
