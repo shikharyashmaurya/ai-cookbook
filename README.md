@@ -55,6 +55,9 @@ https://huggingface.co/spaces/shikharyashmaurya/Mental-health
 whatsapp-chat-analysis
 https://huggingface.co/spaces/shikharyashmaurya/whatsapp-chat-analysis
 
+movie-recommender-system
+https://huggingface.co/spaces/shikharyashmaurya/movie-recommender-system
+
 physics simulation of entropy
 https://huggingface.co/spaces/shikharyashmaurya/entropy
 
