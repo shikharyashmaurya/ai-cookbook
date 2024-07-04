@@ -34,7 +34,7 @@ https://colab.research.google.com/drive/1mswlrgIH9x1Cz3SHcwMfy_XbjZKzQLQq?usp=sh
 
 ## Notebooks -- inspiration (Andrej Karapathy)
 
-Makemore notebook - 
+Micrograd notebook - 
 https://colab.research.google.com/drive/1_sfpZg9AoWDIzSQLP7yLvG2VSA2yr5IA?usp=sharing
 
 # Deployed Working Projects-
