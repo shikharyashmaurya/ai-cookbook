@@ -32,6 +32,11 @@ https://colab.research.google.com/drive/1hHElvdG_7-ngU6f3Oe42vDpsu6Zg3ASx?usp=sh
 Recurrent neural network
 https://colab.research.google.com/drive/1mswlrgIH9x1Cz3SHcwMfy_XbjZKzQLQq?usp=sharing
 
+## Intresting Notebooks inspired by Legend Andrej Karapathy- 
+
+Makemore notebook - 
+https://colab.research.google.com/drive/1_sfpZg9AoWDIzSQLP7yLvG2VSA2yr5IA?usp=sharing
+
 # Deployed Working Projects-
 
 chatbot
