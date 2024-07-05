@@ -40,6 +40,9 @@ https://colab.research.google.com/drive/1_sfpZg9AoWDIzSQLP7yLvG2VSA2yr5IA?usp=sh
 Makemore Bigram- 
 https://colab.research.google.com/drive/15c4XHtKWWeUbkvflRb-QxKKK5CKQZ3Tp?usp=sharing
 
+Makemore Single Layer Neural Network -
+https://colab.research.google.com/drive/1UOyhVTzS0hswH1qnbq6vcmNpJw2mlPKf?usp=sharing
+
 # Deployed Working Projects-
 
 chatbot
