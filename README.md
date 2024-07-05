@@ -39,14 +39,14 @@ https://colab.research.google.com/drive/1_sfpZg9AoWDIzSQLP7yLvG2VSA2yr5IA?usp=sh
 
 Makemore - Generate new names
 
-Makemore Bigram- 
-https://colab.research.google.com/drive/15c4XHtKWWeUbkvflRb-QxKKK5CKQZ3Tp?usp=sharing
-
-Makemore Single Layer Neural Network -
-https://colab.research.google.com/drive/1UOyhVTzS0hswH1qnbq6vcmNpJw2mlPKf?usp=sharing
-
-Makemore Multi Layer Neural Network -
-https://colab.research.google.com/drive/1tUuDfbEkZbTN_qWQhI4w-KBDt90I0_k6?usp=sharing
+  Makemore Bigram- 
+  https://colab.research.google.com/drive/15c4XHtKWWeUbkvflRb-QxKKK5CKQZ3Tp?usp=sharing
+  
+  Makemore Single Layer Neural Network -
+  https://colab.research.google.com/drive/1UOyhVTzS0hswH1qnbq6vcmNpJw2mlPKf?usp=sharing
+  
+  Makemore Multi Layer Neural Network -
+  https://colab.research.google.com/drive/1tUuDfbEkZbTN_qWQhI4w-KBDt90I0_k6?usp=sharing
 
 # Deployed Working Projects-
 
