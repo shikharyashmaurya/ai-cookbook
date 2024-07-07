@@ -51,6 +51,12 @@ https://colab.research.google.com/drive/1tUuDfbEkZbTN_qWQhI4w-KBDt90I0_k6?usp=sh
 BatchNormalisation / Activation /gradient-
 https://colab.research.google.com/drive/1xBaKGX8NvTcyraKpv_WPehkK7l2tIdg5?usp=sharing
 
+Makemore-Loss.backward() - from scratch
+https://colab.research.google.com/drive/1e2KMqM_XtaCxP36jElmv2P4IaoFDI_Bn?usp=sharing
+
+Makemore-Wavenet Architecture
+https://colab.research.google.com/drive/1rB5LkPNzEGW8VsnTEoX1hQJvenQerLDX?usp=sharing
+
 # Deployed Working Projects-
 
 chatbot
